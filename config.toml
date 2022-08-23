@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Veen\'s Blog'
+title = "Veen's Blog"
 theme = 'hugo-theme-terminal'
 [markup.goldmark.renderer]
 unsafe = true
